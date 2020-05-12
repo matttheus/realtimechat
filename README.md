@@ -3,11 +3,11 @@
 -->
 
 
-[![Contributors][contributors-shield]][https://github.com/matttheus/realtimechat/graphs/contributors]
-[![Forks][forks-shield]][https://github.com/matttheus/realtimechat/network/members]
-[![Stargazers][stars-shield]][https://github.com/matttheus/realtimechat/stargazers]
-[![Issues][issues-shield]][https://github.com/matttheus/realtimechat/issues]
-[![LinkedIn][linkedin-shield]][www.linkedin.com/in/matheus-p-1505a91a0]
+[Contributors](https://github.com/matttheus/realtimechat/graphs/contributors)
+[Forks(https://github.com/matttheus/realtimechat/network/members)
+[Stargazers(https://github.com/matttheus/realtimechat/stargazers)
+[Issues(https://github.com/matttheus/realtimechat/issues)
+[LinkedIn(www.linkedin.com/in/matheus-p-1505a91a0)
 
 
 
@@ -15,7 +15,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/matttheus/realtimechat">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="128" height="92">
   </a>
 
   <h3 align="center">Real-Time Chat</h3>
@@ -45,9 +45,7 @@
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
-* [Roadmap](#roadmap)
 * [Contributing](#contributing)
-* [License](#license)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
 
@@ -144,10 +142,10 @@ Contributions are what make the open source community such an amazing place to b
 
 Matheus - [@_matheusphranco](https://twitter.com/_matheusphranco_) - matheusphranco@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/your_username/repo_name](https://github.com/matttheus/realtimechat)
 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* [Creator of the template](https://github.com/othneildrew/Best-README-Template)
+* [Creator of the template of the readme](https://github.com/othneildrew/Best-README-Template)
 * [Iconfinder](https://www.iconfinder.com/)
