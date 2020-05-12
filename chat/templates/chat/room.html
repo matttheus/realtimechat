@@ -1,0 +1,17 @@
+{% extends 'base/base.html' %}
+
+{% load static %}
+
+{% block title %} Room {{room_name}} {% endblock title %}
+
+
+{% block content %}
+    <textarea id="chat-log" cols="100" rows="20"></textarea><br>
+    <input id="chat-message-input" type="text" size="100"><br>
+    <input id="chat-message-submit" type="button" value="Send">
+    {{ room_name|json_script:"room-name" }}
+{% endblock content %}
+
+{% block scripts %}
+    <script src="{% static 'chat/js/room.js' %}"></script>
+{% endblock scripts %}
