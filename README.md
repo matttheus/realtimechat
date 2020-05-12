@@ -4,10 +4,14 @@
 
 
 [Contributors](https://github.com/matttheus/realtimechat/graphs/contributors)
-[Forks(https://github.com/matttheus/realtimechat/network/members)
-[Stargazers(https://github.com/matttheus/realtimechat/stargazers)
-[Issues(https://github.com/matttheus/realtimechat/issues)
-[LinkedIn(www.linkedin.com/in/matheus-p-1505a91a0)
+
+[Forks](https://github.com/matttheus/realtimechat/network/members)
+
+[Stargazers](https://github.com/matttheus/realtimechat/stargazers)
+
+[Issues](https://github.com/matttheus/realtimechat/issues)
+
+[LinkedIn](www.linkedin.com/in/matheus-p-1505a91a0)
 
 
 
