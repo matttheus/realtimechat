@@ -3,17 +3,18 @@
 -->
 
 
-[Contributors](https://github.com/matttheus/realtimechat/graphs/contributors)
-
-[Forks](https://github.com/matttheus/realtimechat/network/members)
-
-[Stargazers](https://github.com/matttheus/realtimechat/stargazers)
-
-[Issues](https://github.com/matttheus/realtimechat/issues)
-
-[LinkedIn](www.linkedin.com/in/matheus-p-1505a91a0)
-
-
+<p align="center">
+  *
+  <a href="https://github.com/matttheus/realtimechat/graphs/contributors">Contributors</a>
+  *
+  <a href="https://github.com/matttheus/realtimechat/network/members">Forks</a>
+  *
+  <a href="https://github.com/matttheus/realtimechat/stargazers">Stargazers</a>
+  *
+  <a href="https://github.com/matttheus/realtimechat/issues">Issues</a>
+  *
+  <a href="www.linkedin.com/in/matheus-p-1505a91a0">LinkedIn</a>
+</p>
 
 <!-- PROJECT LOGO -->
 <br />
