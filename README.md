@@ -59,8 +59,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/matttheus/realtimechat/blob/master/images/lobby.png)
-[![Product Name Screen Shot][product-screenshot]](https://github.com/matttheus/realtimechat/blob/master/images/room.png)
+[![Lobby][product-screenshot]](https://github.com/matttheus/realtimechat/blob/master/images/lobby.png)
+
+[![Room][product-screenshot]](https://github.com/matttheus/realtimechat/blob/master/images/room.png)
+
 With the goal of pratice, I builded this simple 1.0v project. I can have this project as a dictionary which I can search for some content that I forget. Or if you wanna play around you can clone this project. Be free.
 
 Here's why:
